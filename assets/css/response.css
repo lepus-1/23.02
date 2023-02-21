@@ -1,0 +1,57 @@
+@media only screen and (max-width: 1200px){
+    nav {
+        display: none;
+    }
+   .burger{
+    display: block;
+   } 
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .food_box_right{
+        margin-top: 20px;
+        padding-top: 0px;
+        margin: 0 auto;
+
+    }
+    .img_box{
+       
+        width: 100%;
+    }
+    .image_box{
+        flex-direction: column;
+    }
+   
+   header{
+    flex-direction: column;
+    margin: 0 10px;
+   } 
+   .form_wrapper{
+    margin-top: 40px;
+    
+   }
+   .card_box {
+    justify-content: center;
+   }
+   .card{
+    margin: 0 10px;
+   }
+   .letter{
+    height: 500px;
+   }
+   .letter_form button{
+    margin-top: 20px;
+   }
+   .letter_form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   }
+   
+  }
+
+
