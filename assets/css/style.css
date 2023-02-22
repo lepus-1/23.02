@@ -270,19 +270,22 @@ color: #525C60;
   text-align: center;
 }
 
- .letter {
+.letter {
     background-image: url("../image/letter.png");
     background-size: cover;
     background-position: center; 
   
     border-radius: 20px;
-     margin: 100px auto;
-     justify-content: space-around;
+    justify-content: space-around;
      align-items: center;
      flex-wrap: wrap; 
      padding: 100px 10px;
     
 
+}
+
+.mail_letter{
+    padding: 100px 0;
 }
 
 
