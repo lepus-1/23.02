@@ -243,6 +243,7 @@ color: #525C60;
 .card_wrapper{
     background-color:#274C5B;
     padding: 50px 10px;
+    margin-bottom: 100px;
     
 }
 .card{
@@ -334,4 +335,5 @@ footer{
     background-color:#274C5B ;
     color: #FFFFFF;
     font-size: 20px;
+    margin-top: 100px;
 }
